@@ -1,8 +1,13 @@
 <div align="center">
   <h1>devcomfort studio</h1>
 </div>
-  
-`devcomfort studio`에 오신 것을 환영합니다!<br>
-`devcomfort studio`는 외주 관련 레포를 분리하여 관리하기 위해 제작하였습니다.
 
-[이 레포지토리](https://github.com/devcomfort-studio)에는 진행되었던 프로젝트 정보가 업로드 될 예정입니다.
+[devcomfort](https://github.com/devcomfort)가 수행한 개인적인 외주 업무를 관리하는 공간입니다.
+공개할 수 있는 외주 정보는 이 페이지를 통해 관리될 예정입니다.
+
+다시 말해, 비공개 외주는 이 페이지에 업로드 되지 않으며
+만약에 업로드 되어 있다면, 공개/비공개 상태가 최근에 바뀌며 발생한 현상일 것입니다.
+
+## 프로젝트 리스트
+
+> 현재까지 비공개 내역만 존재합니다.
